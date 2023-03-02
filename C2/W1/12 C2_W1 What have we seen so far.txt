@@ -1,0 +1,4 @@
+What have we seen so far?
+
+
+At the end of the last video, you saw how to explore the training history and discovered an interesting phenomenon: Even though the training data set’s accuracy went very high, we saw that after only a few epochs, the validation set leveled out. This is a clear sign that we are overfitting again. Using more data should help with this, but there are some other techniques that you can use with smaller data sets too. And we’ll see them in next week’s lesson!

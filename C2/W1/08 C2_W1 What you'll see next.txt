@@ -1,0 +1,3 @@
+What you'll see next
+
+In the last video, you saw a screencast of the notebook that shows how to build a classifier for Cats vs Dogs. You saw how, in some cases, it didn’t classify one cat correctly, and we asked you to try to figure out how you might fix it. In the next video, you’ll see one solution to this.
