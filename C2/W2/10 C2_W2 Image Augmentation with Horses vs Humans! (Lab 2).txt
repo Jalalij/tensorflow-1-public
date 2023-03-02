@@ -1,0 +1,4 @@
+Image Augmentation with Horses vs Humans! (Lab 2)
+
+Having clearly seen the impact that augmentation gives to Cats vs Dogs, let’s now go back to the Horses vs Humans dataset from Course 1, and take a look to see if the augmentation algorithms will help there. Here’s the notebook if you want to follow along with the next video.
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C2/W2/ungraded_labs/C2_W2_Lab_2_horses_v_humans_augmentation.ipynb

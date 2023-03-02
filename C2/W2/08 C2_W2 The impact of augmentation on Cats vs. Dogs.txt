@@ -1,0 +1,7 @@
+The impact of augmentation on Cats vs. Dogs
+
+Now that we’ve seen it overfitting, let’s next look at how, with a simple code modification, we can add data augmentation to the same Convolutional Neural Network to see how it gives us better training data that overfits less. 
+The notebook used in the next video will still be the one you just used in the previous screencast. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C2/W2/ungraded_labs/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb
+Please re-open it if you want to follow along.
+

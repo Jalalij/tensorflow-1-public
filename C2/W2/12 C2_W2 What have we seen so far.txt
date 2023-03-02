@@ -1,0 +1,4 @@
+What have we seen so far?
+
+
+This week, you looked at the really useful tool that TensorFlow gives you with image augmentation. With it, you can effectively simulate a larger dataset from a smaller one with tools to move images around the frame, skew them, rotate them, and more. This can be an effective tool in fixing overfitting.

@@ -1,0 +1,8 @@
+Looking at the notebook (Lab 1)
+Now that you've gotten to learn some of the basics of data augmentation, let's look at it in action in the Cats v Dogs classifier.
+
+First, we'll run Cats v Dogs without augmentation, and explore how quickly it overfits.
+
+If you want to run the notebook yourself, you can find it here:
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C2/W2/ungraded_labs/C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb
+
