@@ -1,0 +1,6 @@
+Check out the code! (Lab 1)
+
+
+Now that you've explored the data, and seen how the code can be modified from a binary class classifier to a multi class one, let's take a look at the notebook that implements that for us!
+
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C2/W4/ungraded_lab/C2_W4_Lab_1_multi_class_classifier.ipynb

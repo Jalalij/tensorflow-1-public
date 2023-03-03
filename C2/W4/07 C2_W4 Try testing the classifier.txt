@@ -1,0 +1,8 @@
+Try testing the classifier
+
+
+In the following video, you'll see Laurence testing the classifier. You should also try it out using the data that you can find here.
+
+
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-validation.zip
+wrong link!!! 
