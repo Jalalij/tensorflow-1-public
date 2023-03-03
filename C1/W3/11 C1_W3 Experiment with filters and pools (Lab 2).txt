@@ -1,0 +1,12 @@
+Experiment with filters and pools (Lab 2)
+
+
+Here is the notebook to try some convolutions. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W3/ungraded_labs/C1_W3_Lab_2_exploring_convolutions.ipynb
+Let us know if you come up with any interesting filters of your own! 
+
+As before, spend a little time playing with this notebook. 
+Try different filters, and research different filter types. 
+There's some fun information about them here. https://lodev.org/cgtutor/filtering.html
+
+

@@ -1,0 +1,4 @@
+Getting hands-on, your first ConvNet
+
+
+You’ve now seen how to turn your Deep Neural Network into a Convolutional Neural Network by adding convolutional layers on top, and having the network train against the results of the convolutions instead of the raw pixels. In the next video, you’ll step through a workbook to see how this works…

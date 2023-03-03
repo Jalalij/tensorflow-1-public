@@ -1,0 +1,10 @@
+Try it for yourself (Lab 1)
+
+
+Here is the notebook that Laurence was using in that screencast. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W3/ungraded_labs/C1_W3_Lab_1_improving_accuracy_using_convolutions.ipynb
+If you're running this in Colab, the GPU runtime has already been pre-selected for you to make the training run faster.
+
+Work through it, and try some of the exercises at the bottom. It's really worth spending a bit of time on these because, as before, they'll really help you by seeing the impact of small changes to various parameters in the code. You should spend at least 1 hour on this today!
+
+Once you’re done, go onto the next video and take a look at some code to build a convolution yourself to visualize how it works!
