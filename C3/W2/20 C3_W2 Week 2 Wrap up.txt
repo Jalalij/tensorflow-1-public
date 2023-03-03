@@ -1,0 +1,26 @@
+Week 2 Wrap up
+
+
+Here are the key takeaways for this week:
+
+	* You looked at taking your tokenized words and passing them to an Embedding layer.
+
+	* Embeddings map your vocabulary to vectors in higher-dimensional space. 
+
+	* The semantics of the words were learned when those words were labeled with similar meanings. For example, when looking at movie reviews, those movies with positive 	sentiment had the dimensionality of their words ending up pointing a particular way, and those with negative sentiment pointing in a different direction. From these, the 	words in future reviews could have their direction established and your model can infer the sentiment from it. 
+
+	* You then looked at subword tokenization and saw that not only do the meanings of the words matter but also the sequence in which they are found. 
+
+
+Next week, you will:
+
+	* Look at other network architectures that you can use when building NLP models. 
+
+	* Use Recurrent Neural Networks to take note of the sequence of your tokens.
+
+	* Use a convolutional layer to extract features from your model.
+
+	* Compare the performance of different architectures in building binary classifiers.
+
+
+See you there!

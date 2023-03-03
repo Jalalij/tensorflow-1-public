@@ -1,0 +1,5 @@
+Check out the code! (Lab 1)
+
+
+Here is the first notebook that Laurence will walk through this week.
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W2/ungraded_labs/C3_W2_Lab_1_imdb.ipynb
