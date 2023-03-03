@@ -1,0 +1,5 @@
+Check out the code! (Lab 2)
+
+
+Here is the second notebook for this week and Laurence will discuss it in the next screencast.
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W1/ungraded_labs/C3_W1_Lab_2_sequences_basic.ipynb

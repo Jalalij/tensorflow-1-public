@@ -1,0 +1,4 @@
+Check out the code! (Lab 1)
+
+In the next video, Laurence will do a screencast of the first notebook for this week. You can have it open so you can follow along while he walks through it.
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W1/ungraded_labs/C3_W1_Lab_1_tokenize_basic.ipynb
