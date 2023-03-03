@@ -1,0 +1,4 @@
+Adding your DNN
+
+
+In the previous video you saw how to take the layers from an existing model, and make them so that they don't get retrained -- i.e. you freeze (or lock) the already learned convolutions into your model. Now, you'll need to add your own DNN at the bottom of these, which you can retrain to your data. In the next video, you'll see how to do that...

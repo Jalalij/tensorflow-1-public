@@ -1,0 +1,9 @@
+Applying Transfer Learning to Cats v Dogs (Lab 1)
+
+
+Now that we've explored transfer learning, and taken a look at regularization using dropout, let's step through the scenario for Cats vs Dogs in this notebook next.
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C2/W3/ungraded_lab/C2_W3_Lab_1_transfer_learning.ipynb
+
+
+For more on how to freeze/lock layers, you can explore the documentation here.
+https://www.tensorflow.org/tutorials/images/transfer_learning
