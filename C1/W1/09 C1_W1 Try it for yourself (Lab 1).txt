@@ -1,0 +1,7 @@
+Try it for yourself (Lab 1)
+
+
+Ok, now that you’ve seen the demo, why don’t you give it a try for yourself? You can download the workbook here. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W1/ungraded_lab/C1_W1_Lab_1_hello_world_nn.ipynb
+
+Now while this might seem very simple, you’ve actually gotten the basics of how neural networks work. You’ll continue to use the same techniques as your applications get more complex.
