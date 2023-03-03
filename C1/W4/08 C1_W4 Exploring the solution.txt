@@ -1,0 +1,4 @@
+Exploring the solution
+
+
+Now you’ve gone through the code to define the neural network, train it with on-disk images, and then predict values for new images. Let’s see this in action in a workbook. In the next video, Laurence will step you through the code, and afterward, you can try it for yourself.

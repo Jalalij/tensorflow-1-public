@@ -1,0 +1,11 @@
+Get hands-on and use validation (Lab 2)
+
+
+
+Now you can give it a try for yourself. 
+Here is the notebook that Laurence went through in the video. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W4/ungraded_labs/C1_W4_Lab_2_image_generator_with_validation.ipynb
+Have a play with it to see how it trains, and test some images yourself! Once you’re done, move on to the next video where you’ll compact your data to see the impact on training.
+
+ 
+

@@ -1,0 +1,4 @@
+Designing the neural network
+
+
+Now that you’ve seen how an ImageDataGenerator can flow images from a directory and perform operations such as resizing them on the fly, the next thing to do is design the neural network to handle these more complex images. You’ll see that in the next video.

@@ -1,0 +1,7 @@
+Get Hands-on with compacted images (Lab 3)
+
+
+
+Try this version, https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W4/ungraded_labs/C1_W4_Lab_3_compacted_images.ipynb,  version of the notebook where Laurence compacted the images. You can see that training times will improve, but that some classifications might be wrong! Experiment with different sizes -- you don’t have to use 150x150 for example!
+ 
+

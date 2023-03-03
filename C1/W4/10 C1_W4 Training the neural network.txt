@@ -1,0 +1,8 @@
+Training the neural network
+
+
+Now that you’ve learned how to download and process the horses and humans dataset, you’re ready to train. When you defined the model, you saw that you were using a new loss function called ‘Binary Crossentropy’ (https://gombru.github.io/2018/05/23/cross_entropy_loss/), and a new optimizer (http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) called RMSProp (https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop). 
+
+If you want to learn more about the type of binary classification we are doing here, check out this great video from Andrew!
+https://www.youtube.com/watch?v=eqEc66RFY0I&t=6s&ab_channel=DeepLearningAI
+

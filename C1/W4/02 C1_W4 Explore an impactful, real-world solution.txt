@@ -1,0 +1,6 @@
+Explore an impactful, real-world solution
+
+
+As Andrew and Laurence discussed, the techniques you’ve learned already can apply to complex images, and you can start solving real scenarios with them. They discussed how it could be used, for example, in disease detection with the Cassava plant, and you can see a video demonstrating that here. 
+https://www.youtube.com/watch?v=NlpS-DhayQA&ab_channel=TensorFlow
+Once you’ve watched that, move onto the next lesson!

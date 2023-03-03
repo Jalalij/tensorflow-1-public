@@ -1,0 +1,13 @@
+Experiment with the horse or human classifier (Lab 1)
+
+
+Now it’s your turn. You can find the notebook here. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W4/ungraded_labs/C1_W4_Lab_1_image_generator_no_validation.ipynb
+Work through it and get a feel for how the ImageGenerator is pulling the images from the file system and feeding them into the neural network for training. Have some fun with the visualization code at the bottom!
+
+In earlier notebooks, you tweaked parameters like epochs, or the number of hidden layers and neurons in them. Give that a try for yourself, and see what the impact is. Spend some time on this.
+
+Once you’re done, move to the next video, where you can validate your training against a lot of images!
+
+ 
+
