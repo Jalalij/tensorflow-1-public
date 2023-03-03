@@ -1,0 +1,11 @@
+Check out the code! (Lab 1 & Lab 2)
+
+We've created a number of notebooks for you to explore the different types of sequence models. 
+
+Spend some time going through these to see how they work, and what the impact of different layer types have on training for classification.
+
+IMDB Subwords 8K with Single Layer LSTM
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_1_single_layer_LSTM.ipynb
+
+IMDB Subwords 8K with Multi Layer LSTM
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_2_multiple_layer_LSTM.ipynb

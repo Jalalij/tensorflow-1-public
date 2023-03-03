@@ -1,0 +1,4 @@
+Week 3 Wrap up
+
+
+You’ve been experimenting with NLP for text classification over the last few weeks. Next week, you’ll switch gears and take a look at using the tools that you’ve learned to predict text, which ultimately means you can create text. By learning sequences of words, you can predict the most common word that comes next in the sequence. Thus when starting from a new sequence of words, you can create a model that builds on them. You’ll take different training sets -- like traditional Irish songs, or Shakespeare poetry, and learn how to create new sets of words using their embeddings!

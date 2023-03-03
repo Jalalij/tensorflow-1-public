@@ -1,0 +1,7 @@
+Check out the code! (Lab 4)
+
+
+Spend some time going through this notebook to see how it works and what the impact of different layer types have on training for classification.
+
+IMDB Reviews with LSTM, GRU and Conv1D
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb

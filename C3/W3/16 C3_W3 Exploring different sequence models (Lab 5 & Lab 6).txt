@@ -1,0 +1,12 @@
+Exploring different sequence models (Lab 5 & Lab 6)
+
+
+We've created a couple of notebooks for you to explore the different types of sequence models for Sarcasm Detection.
+
+Spend some time going through these to see how they work, and what the impact of different layer types have on training for classification.
+
+Sarcasm with Bidirectional LSTM
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb
+
+Sarcasm with 1D Convolutional Layer
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W3/ungraded_labs/C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb

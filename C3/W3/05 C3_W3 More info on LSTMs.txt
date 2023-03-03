@@ -1,0 +1,4 @@
+More info on LSTMs
+
+Please find here a link to more information on LSTMs (Long Short Term Memory cells) by Andrew.
+https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay

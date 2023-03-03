@@ -1,0 +1,4 @@
+Link to Andrew's sequence modeling course
+
+Here is the link to Andrew's course on sequence modeling.
+https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
