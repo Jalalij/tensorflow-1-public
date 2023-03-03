@@ -1,0 +1,8 @@
+Get hands-on with computer vision (Lab 1)
+
+
+Now that you’ve seen the workbook, it’s time to try it for yourself.  You can find it here. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C1/W2/ungraded_labs/C1_W2_Lab_1_beyond_hello_world.ipynb
+We’ve also provided a number of exercises you can try at the bottom of the workbook. These will help you poke around and experiment with the code, and will help you with the code you’ll need to write at the end of the week, so it’s really worth spending some time on them! I'd recommend you spend at least 1 hour playing with this workbook. It will be really worth your time!
+
+When you’re done with that, the next thing to do is to explore callbacks. One of the things you can do with that is to train a neural network until it reaches a threshold you want, and then stop training. You’ll see that in the next video.

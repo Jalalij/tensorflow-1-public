@@ -1,0 +1,4 @@
+See how it's done
+
+
+In the next video, Laurence will step you through a workbook where you can see a neural network being trained on Fashion images. After that you’ll be able to try the workbook for yourself!
