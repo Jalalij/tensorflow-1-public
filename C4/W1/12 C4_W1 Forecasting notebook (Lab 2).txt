@@ -1,0 +1,6 @@
+Forecasting notebook (Lab 2)
+
+Here is the link to the notebook that demonstrates statistical methods in forecasting.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W1/ungraded_labs/C4_W1_Lab_2_forecasting.ipynb
+
+

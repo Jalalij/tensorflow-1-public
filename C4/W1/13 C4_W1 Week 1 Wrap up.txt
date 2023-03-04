@@ -1,0 +1,7 @@
+Week 1 Wrap up
+
+
+This week you explored the nature of time-series data, and you saw some of its more common attributes such as seasonality and trend. You also looked at some statistical methods for predicting time series data. 
+
+Next week, you're going to start to look into using DNNs for time series classification, including the important task of understanding how to break up a time series into training and validation data.
+

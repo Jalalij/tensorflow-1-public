@@ -1,0 +1,6 @@
+Introduction to time series notebook (Lab 1)
+
+Here is the link to the notebook that Laurence just showed in the previous screencast.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W1/ungraded_labs/C4_W1_Lab_1_time_series.ipynb
+
+
