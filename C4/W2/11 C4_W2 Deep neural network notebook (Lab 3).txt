@@ -1,0 +1,6 @@
+Deep neural network notebook (Lab 3)
+
+
+The last section for this week will demonstrate using multi-layer neural networks and you can use the notebook here as reference for the upcoming videos.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W2/ungraded_labs/C4_W2_Lab_3_deep_NN.ipynb
+

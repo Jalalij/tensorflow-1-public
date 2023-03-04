@@ -1,0 +1,6 @@
+Single layer neural network notebook (Lab 2)
+
+
+The next lectures will show how you can feed windowed datasets to a single neural network. You can use the notebook here to follow along or you can run it after the screencast.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W2/ungraded_labs/C4_W2_Lab_2_single_layer_NN.ipynb
+

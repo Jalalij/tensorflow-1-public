@@ -1,0 +1,6 @@
+Week 2 Wrap up
+
+
+You've now explored time series data and seen how to split it into training and validation sets for training a DNN.
+
+But sequence data tends to work better with RNNs. So next week, you're going to look at training a model using RNNs and LSTMs on this data to see what happens.
