@@ -1,0 +1,5 @@
+Link to the LSTM lesson
+
+
+Please find the link to the LSTM lesson here
+https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay

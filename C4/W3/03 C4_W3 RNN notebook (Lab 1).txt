@@ -1,0 +1,5 @@
+RNN notebook (Lab 1)
+
+
+In the next videos, Laurence will demonstrate using RNNs to build your predictive model. You can use the notebook here to follow along.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W3/ungraded_labs/C4_W3_Lab_1_RNN.ipynb

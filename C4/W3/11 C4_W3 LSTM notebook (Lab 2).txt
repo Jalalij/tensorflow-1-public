@@ -1,0 +1,5 @@
+LSTM notebook (Lab 2)
+
+
+You can use the notebook here to follow along the LSTM coding demo in the next video.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W3/ungraded_labs/C4_W3_Lab_2_LSTM.ipynb
