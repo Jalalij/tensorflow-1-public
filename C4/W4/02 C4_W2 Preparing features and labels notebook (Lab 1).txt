@@ -1,0 +1,6 @@
+Preparing features and labels notebook (Lab 1)
+
+
+In the next couple of videos, Laurence will demonstrate a series of commands to prepare features and labels. You can use the notebook here to follow along and see links to the documentation of each command.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W2/ungraded_labs/C4_W2_Lab_1_features_and_labels.ipynb
+
