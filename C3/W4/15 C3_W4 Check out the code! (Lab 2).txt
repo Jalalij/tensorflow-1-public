@@ -1,0 +1,5 @@
+Check out the code! (Lab 2)
+
+
+Let's take a look at the second notebook for this week. 
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/ungraded_labs/C3_W4_Lab_2_irish_lyrics.ipynb

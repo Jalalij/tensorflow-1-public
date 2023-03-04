@@ -1,0 +1,5 @@
+Link to the dataset
+
+
+You can find the dataset of Irish song lyrics here.
+https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/misc/Laurences_generated_poetry.txt

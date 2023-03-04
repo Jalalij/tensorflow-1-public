@@ -1,0 +1,4 @@
+Link to generating text using a character-based RNN
+
+Find the link to generating text using a character-based RNN here.
+https://www.tensorflow.org/text/tutorials/text_generation
