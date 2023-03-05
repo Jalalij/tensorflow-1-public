@@ -1,0 +1,7 @@
+Convolutional neural networks course
+
+
+More information on CNNs can be found on Andrews course within the Deep Learning Specialization.  
+
+If you are curious about the content and would like to learn more, here is the link to the course.
+https://www.coursera.org/learn/convolutional-neural-networks

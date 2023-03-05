@@ -1,0 +1,11 @@
+Sunspots notebooks (Lab 2 & Lab 3)
+
+
+
+The next screencasts will show how you can use different network architectures to predict real world data.
+
+Here is the notebook for DNN only.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_2_Sunspots_DNN.ipynb
+
+Here is the version with the combined layers.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_3_Sunspots_CNN_RNN_DNN.ipynb

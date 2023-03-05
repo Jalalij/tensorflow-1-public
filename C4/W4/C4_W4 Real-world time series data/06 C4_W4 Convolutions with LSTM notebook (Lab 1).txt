@@ -1,0 +1,6 @@
+Convolutions with LSTM notebook (Lab 1)
+
+
+
+The next video is a screencast demonstrating how to use convolution layers with the LSTM network you built last week. You can find the link to the notebook here.
+https://colab.research.google.com/github/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_1_LSTM.ipynb

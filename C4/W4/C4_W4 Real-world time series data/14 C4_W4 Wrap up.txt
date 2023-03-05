@@ -1,0 +1,6 @@
+Wrap up
+
+
+The next screencasts will show how you can use different network architectures to predict real world data.
+
+Congratulations on getting this far! In this course, you've dipped your toe into the water of understanding sequences and some of the tools for predicting them! Hopefully, it was a fun journey and we're really looking forward to what you build next! :)  
